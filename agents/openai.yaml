@@ -1,0 +1,4 @@
+interface:
+  display_name: "明辰自然写作"
+  short_description: "为口播、社交内容和文章草稿做保真自然的中文写作润色"
+  default_prompt: "使用 $mingchen-living-people 润色这段文字，保留事实和我的表达习惯。"
